@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Nullifierverse Rythim 4",
+  "description": "A rhythm game inspired by Friday Night Funkin\u0027. Better chart editor",
+  "requestFramePermissions": [
+    "fullscreen"
+  ]
+}
